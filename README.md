@@ -6,6 +6,12 @@ https://github.com/Dhghomon/rust-fsharp
 
 <hr>
 
+# Learning F#
+
+https://fsharp.org/learn/
+
+<br>
+
 
 # F# Tutorial
 
