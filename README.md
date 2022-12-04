@@ -1,3 +1,12 @@
+# Rust for Fsharpers and F# for Rustaceans
+
+https://github.com/Dhghomon/rust-fsharp
+
+<br>
+
+<hr>
+
+
 # F# Tutorial
 
 https://learn.microsoft.com/en-us/dotnet/fsharp/get-started/install-fsharp
