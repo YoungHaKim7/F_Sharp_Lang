@@ -47,6 +47,10 @@ https://youtube.com/playlist?list=PLdo4fOcmZ0oUFghYOp89baYFBTGxUkC7Z
 
 <br>
 
+<br>
+
+<hr>
+
 # Hello_F_Sharp
 
 ```
@@ -69,6 +73,8 @@ https://fsharp.org/use/mac/
 
 dotnet new sln -o FSharpSample
 ```
+
+https://learn.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-command-line?source=recommendations
 
 <br>
 
