@@ -54,3 +54,4 @@ https://fsharp.org/use/mac/
 
 dotnet new sln -o FSharpSample
 ```
+# F_Sharp_Lang
